@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E06980871F2B123200382E22 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E0D347661F2B117B00BD9284 /* sayingstory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sayingstory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0D347691F2B117B00BD9284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0D3476B1F2B117B00BD9284 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +39,7 @@
 		E0D3475D1F2B117B00BD9284 = {
 			isa = PBXGroup;
 			children = (
+				E06980871F2B123200382E22 /* MyPlayground.playground */,
 				E0D347681F2B117B00BD9284 /* sayingstory */,
 				E0D347671F2B117B00BD9284 /* Products */,
 			);
@@ -312,6 +314,7 @@
 				E0D3477A1F2B117B00BD9284 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
